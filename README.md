@@ -1,4 +1,4 @@
 # PFNN_TVM
 Efficient PFNN implementations enabled by TVM
 
-The code repository is still under preparation.
+Please refer to https://github.com/zhuwenxi/PFNN-TVM
